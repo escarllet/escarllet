@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 ## 📫 Contact me:
 
-![Email](https://img.shields.io/badge/escarlletsurielvaldez@hotmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
+[![Email](https://img.shields.io/badge/escarlletsurielvaldez@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:escarlletsurielvaldez@hotmail.com)
 
 [![Web](https://img.shields.io/badge/Web-Escarlletsurielval.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://escarlletsurielval.wixsite.com/escarllet)
